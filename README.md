@@ -160,5 +160,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ---
 
 <p align="center">
-  Made with ❤️ by the VivaanNetwork Projects Team
+  Made with ❤️ by the SkyBotsDeveloper 
 </p>
